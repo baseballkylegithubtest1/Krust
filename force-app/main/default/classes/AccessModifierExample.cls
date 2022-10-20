@@ -1,6 +1,6 @@
 public class AccessModifierExample {
     
-    PRE-STASH
+    getting ready to test MORE stuff
 
     // getting ready to stash stuff!
     public static Integer staticCounter = 5;
