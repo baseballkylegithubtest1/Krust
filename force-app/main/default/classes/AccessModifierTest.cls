@@ -3,7 +3,7 @@
  */
 
 public without sharing class AccessModifierTest {
-
+    //ZOMG this is awesome
     public static void modifyField(){
 
         Account a =
