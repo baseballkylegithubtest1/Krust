@@ -1,4 +1,6 @@
 public class AccessModifierExample {
+    
+    PRE-STASH
 
     public static Integer staticCounter = 5;
 
