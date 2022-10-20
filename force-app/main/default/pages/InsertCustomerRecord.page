@@ -1,0 +1,13 @@
+<apex:page controller="InsertCustomerRecord" sidebar="false">
+    <apex:form >
+        <apex:pageBlock >
+            <apex:pageBlockSection >
+            <apex:inputText value="{!FirstName}" label="FirstName" />
+            <apex:inputText value="{!LastName}" label="LastName" />
+            <apex:inputText value="{!Phone}" label="Phone" />
+            <apex:inputText value="{!EmailId}" label="EmailId" />
+                <apex:commandButton value="Save Records" action="{!insertCustomer}"/>
+            </apex:pageBlockSection>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
