@@ -2,7 +2,9 @@ public class AccessModifierExample {
     
     getting ready to test MORE stuff
 
-    // getting ready to stash stuff!
+    // getting ready to MERGE stuff!!!
+
+    
     public static Integer staticCounter = 5;
 
     public Integer classCounter = 0;
